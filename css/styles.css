@@ -6,3 +6,11 @@ p {
   padding: 8px;
   margin: 10px;
 }
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  float: left;
+}
